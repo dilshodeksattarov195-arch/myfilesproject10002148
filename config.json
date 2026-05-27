@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvrocess",
+        "uuid": 13135020,
+        "checksum": "cpwl77"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
